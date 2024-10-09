@@ -126,6 +126,10 @@ nav {
     background-color: #e9ecef;
 }
 
+h2 {
+    text-align: center;
+}
+
 .gallery h2 {
     color: #007ACC;
     font-size: 2em;
